@@ -1,1 +1,2 @@
-# odin-recipes
+# Odin Recipes
+This website was made as a process of learn HTML through a website called The Odin Project. To create the  website was used just HTML's elements: links and images, unordered lists and ordered list.
