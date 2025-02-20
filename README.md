@@ -4,4 +4,4 @@ To create the  website was used just HTML's elements:
 <li>Links</li>
 <li>Images</li>
 <li>Unordered lists</li>
-<li>Ordered list</li>
+<li>Ordered list.</li>
